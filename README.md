@@ -1,17 +1,41 @@
-# app_kuis
+# QUIZNOVA
+Let Your Mind Explode with Knowledge
 
-A new Flutter project.
+Quiznova adalah aplikasi kuis pilihan ganda berbasis Flutter
 
-## Getting Started
+## a. Identitas Mahasiswa
+        Nama   : Bella Richa Gracia Sijabat
+        NIM    : 241401137
+        Lab    : Pemrograman Mobile 4
 
-This project is a starting point for a Flutter application.
+## b. Informasi Aplikasi
+        ## Nama Aplikasi    : QUIZNOVA
 
-A few resources to get you started if this is your first Flutter project:
+        ## Deskripsi Singkat: 
+        **Quiznova** merupakan aplikasi kuis pilihan ganda berbasis Flutter. Pengguna dapat memasukkan nama, memilih kategori dan tingkat kesulitan, menentukan jumlah soal, mengerjakan kuis dengan batas waktu, lalu melihat hasil dan riwayat skor.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+        ## Fitur-Fitur Aplikasi:
+        - Input nama peserta, pengguna memasukkan nama sebelum memulai kuis.
+        - Pilihan kategori, Pengetahuan Umum, Biologi, Matematika, dan Sejarah Dunia.
+        - Pengaturan kuis, pengguna dapat memilih tingkat kesulitan dan jumlah soal yang tersedia.
+        - Kuis pilihan ganda, pengguna memilih jawaban dari beberapa opsi.
+        - Timer dan progress, menampilkan sisa waktu dan perkembangan pengerjaan soal.
+        - Navigasi soal, pengguna dapat berpindah ke soal sebelumnya atau berikutnya.
+        - Penanda soal, pengguna dapat menandai soal.
+        - Hasil kuis, menampilkan skor, jumlah jawaban benar/salah, dan akurasi.
+        - Review jawaban, pengguna dapat meninjau jawaban dan pembahasan setelah kuis.
+        - Leaderboard/riwayat skor, menyimpan dan menampilkan hasil kuis sebelumnya secara lokal.
+        - Light mode dan dark mode, pengguna dapat mengganti tema tampilan.
+        - Tampilan responsif, tata letak menyesuaikan lebar layar menggunakan widget Flutter seperti LayoutBuilder dan scroll view.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## c. Dokumentasi
+        ##  Kredit Aset
+        - **Font Plus Jakarta Sans:** [Google Fonts — Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
+        - **Ikon antarmuka:** Menggunakan ikon bawaan Flutter Material Icons (`Icons`).
+        - **Ilustrasi/avatar:** Menggunakan karakter emoji Unicode bawaan
+
+        ## Screenshot page aplikasi:
+        https://drive.google.com/drive/folders/1gqI0K6dT26eWOztJWN8SfIM5-qKEI5vS?usp=sharing
+
+        ## Linkk mockup/prototype aplikasi:
+        https://www.figma.com/design/H1hgCtrNbYnWV5sf2F0PEJ/Quiznova?node-id=0-1&t=yy97ozFAnxtLzJlw-1
