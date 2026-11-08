@@ -4,21 +4,24 @@
 
 Quiznova adalah aplikasi kuis pilihan ganda berbasis Flutter.
 
-## a. Identitas Mahasiswa
+## 👩🏻‍🎓 a. Identitas Mahasiswa
 
-**Nama:** Bella Richa Gracia Sijabat  
-**NIM:** 241401137  
-**Lab:** Pemrograman Mobile 4
+| Keterangan | Identitas |
+|:---|:---|
+| **Nama** | Bella Richa Gracia Sijabat |
+| **NIM** | 241401137 |
+| **Lab** | Pemrograman Mobile 4 |
 
-## b. Informasi Aplikasi
+## 📱 b. Informasi Aplikasi
 
-**Nama Aplikasi:** QUIZNOVA
+### 🎮 Nama Aplikasi: 
+**QUIZNOVA**
 
-**Deskripsi Singkat:**
+### Deskripsi Singkat:
 
 **Quiznova** merupakan aplikasi kuis pilihan ganda berbasis Flutter. Pengguna dapat memasukkan nama, memilih kategori dan tingkat kesulitan, menentukan jumlah soal, mengerjakan kuis dengan batas waktu, lalu melihat hasil dan riwayat skor.
 
-**Fitur-Fitur Aplikasi:**
+### ✨ Fitur-Fitur Aplikasi:
 
 - **Input nama peserta:** Pengguna memasukkan nama sebelum memulai kuis.
 - **Pilihan kategori:** Pengetahuan Umum, Biologi, Matematika, dan Sejarah Dunia.
